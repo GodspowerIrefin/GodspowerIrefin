@@ -1,57 +1,22 @@
-Hi there, I'm Godspower Irefin! 👋
-
-About Me
-
-🎓 Education: I am currently pursuing a Bachelor's degree in Computer Information Systems at the University of Akron, with a focus on Cybersecurity and Software Development. I’m set to graduate in May 2026
-
-💻 Experience: I have hands-on experience from roles at:
-
-Sherwin Williams 
-Hyland Software
-
-Baltimore County Public Schools
-
-Geetee Management Services
-
-I’ve honed my skills in troubleshooting, system health monitoring, and collaborating on enterprise-wide IT projects.
-
-🔍 Skills and Tools:
-
-Programming: Java, SQL, Visual Basics
-
-Frameworks: Spring Boot
-
-Tools: IntelliJ, Visual Studio, Putty, PowerApps, Confluence, Slack, DBeaver
-
-Platforms: Unix/Linux, Networking, Routing
-
-🌟 Focus Areas: Cybersecurity, Software Development, Data Science, and IT Systems Engineering.
-
-What I’m Working On
-
-Exploring projects that combine my knowledge in cybersecurity and software development.
-
-Connect With Me
-
-🌐 LinkedIn
-
-📧 Email
-
-📝 Resume
-
-My GitHub Stats
+# 💫 Hello, I'm Godspower Irefin! 👋<br>
+<br>About Me<br><br>🎓 Education: I am currently pursuing a Bachelor's degree in Computer Information Systems at the University of Akron, with a focus on Cybersecurity and Software Development. I’m set to graduate in May 2026<br><br>💻 Experience: I have hands-on experience from roles at:<br><br>Sherwin Williams Hyland Software<br><br>Baltimore County Public Schools<br><br>Geetee Management Services<br><br>I’ve honed my skills in troubleshooting, system health monitoring, and collaborating on enterprise-wide IT projects.<br><br>🔍 Skills and Tools:<br><br>Programming: Java, SQL, Visual Basics<br><br>Frameworks: Spring Boot<br><br>Tools: IntelliJ, Visual Studio, Putty, PowerApps, Confluence, Slack, DBeaver<br><br>Platforms: Unix/Linux, Networking, Routing<br><br>🌟 Focus Areas: Cybersecurity, Software Development, Data Science, and IT Systems Engineering.<br><br>What I’m Working On<br><br>Exploring projects that combine my knowledge in cybersecurity and software development.<br><br>
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/godspowerirefin/) 
 
-Languages and Tools
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=GodspowerIrefin&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=GodspowerIrefin&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GodspowerIrefin&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=GodspowerIrefin&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
-
-
-
-Get in Touch
-
-I’m always open to collaboration, mentorship, or just connecting with like-minded individuals in tech. Feel free to reach out!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
